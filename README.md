@@ -17,7 +17,7 @@ It was built to practice:
 - Responsive design for desktop, tablet, and mobile  
 - Clean UI sections commonly used in SaaS landing pages  
 
-The site includes a hero section, pricing plans, feature highlights, testimonials, and a footer — all built without any frameworks or libraries.
+The site includes a hero section, pricing plans, feature highlights, testimonials, and a footer - all built without any frameworks or libraries.
 
 ---
 
