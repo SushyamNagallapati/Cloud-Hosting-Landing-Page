@@ -39,3 +39,11 @@ The site includes a hero section, pricing plans, feature highlights, testimonial
 - CSS3  
 - Flexbox & CSS Grid  
 - GitHub Pages (for deployment)
+
+---
+
+## Learning Goals
+
+- Understand real-world landing page layouts
+- Improve CSS structuring and responsiveness
+- Practice deploying static sites with GitHub Pages
